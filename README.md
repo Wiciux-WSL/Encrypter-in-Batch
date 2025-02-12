@@ -1,4 +1,5 @@
 ENCRYPTER FOR 9 ENCRYPTIONS in BatchFile
+
 1.Base64
 
 2.bcrypt
